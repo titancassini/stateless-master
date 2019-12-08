@@ -28,15 +28,7 @@ Most of all, Stateless aims to support the dignity and lives of all people irres
 
 
 ## Project Team
-List each team member, along with the below fields
-
-* Team members Name: Chris Spannos
-* Team member email: spannos@gmail.com
-* OK to contact about future hackathons? Yes.
-
-## Project Advisor(s)
-
-Preeti Kaur is a solicitor with expertise in International Human Rights Law and as an advocate for survivors of state rendition and torture. She is actively researching the impacts of climate change on the majority world, including small island nation states, and the displacement of the most vulnerable people, including women, children, LGBTQ and impoverished communities.
+Titan Cassini
 
 ## Link to Ancillary Material
 
